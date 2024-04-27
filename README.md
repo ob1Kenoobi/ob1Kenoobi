@@ -14,14 +14,18 @@
   <br> No! Try not. Do. Or do not. There is no try <br>
   <br> You must unlearn what you have learned <br>
   <br> Patience you must have, my young Padawan <br>
+  <br> Control, control, you must learn control! <br>
+  <br> If no mistake you have made, losing you are. A different game you should play. <br>
+  <br> Difficult to see. Always in motion is the future. <br>
  </abc>
 </h2> 
+
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 <p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHI0ajVlamdycmFmemVwdjd1N2diZTN4ZXN0bGUwMnVpemY3Z2Q4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" /></p>
 <p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXQ2Y3c5NXVnYTV0MzF1bWt4ZGJ5YjN3dDh1Ymp0NWF1cWc0eHlvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d3mlE7uhX8KFgEmY/giphy.gif" /></p>
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=ob1Kenoobi.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 ```python
@@ -29,7 +33,7 @@
 # -*- coding: utf-8 -*-
 
 
-class SoftwareEngineer:
+class SoftwareDeveloper:
 
     def __init__(self):
         self.name = "Hasan Banna"
@@ -40,7 +44,7 @@ class SoftwareEngineer:
         print("Thanks for dropping by, auf gehts!!")
 
 
-me = SoftwareEngineer()
+me = SoftwareDeveloper()
 me.say_hi()
 ```
 <h2 align="left">:heart: Let's get connected:</h2>
